@@ -1,5 +1,0 @@
-THE READING ROOM — TEST DI PUBBLICAZIONE AUTOMATICA
-Data: 2026-11-13
-Origine: GitHub (branch main)
-Identificatore di verifica: reading-room-netlify-sync-20261113
-Questo file conferma il deploy solo se appare all'indirizzo del sito Netlify.
