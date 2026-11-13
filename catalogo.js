@@ -1314,5 +1314,33 @@ window.READING_ROOM_BOOKS = [
       "nyt-mystic-river"
     ],
     "source": "NYT Thriller 2026"
+  },
+  {
+    "id": "trilogia-caleb-traskman",
+    "title": "Trilogia di Caleb Traskman",
+    "author": "Franck Thilliez",
+    "genre": "Thriller",
+    "year": 2024,
+    "aka": "Il manoscritto · C'era due volte · Labirinti",
+    "series": "Caleb Traskman",
+    "description": "Tre thriller psicologici raccolti in un unico volume. Sparizioni, omicidi e misteri apparentemente indipendenti nascondono connessioni inattese, mentre sullo sfondo incombe il nome di Caleb Traskman, un celebre scrittore schivo. Ordine di lettura: Il manoscritto → C'era due volte → Labirinti. Edizione Fazi Darkside (2024), circa 1.200 pagine.",
+    "why": "Per quando vuoi il contrario di un avvio lento: suspense, enigmi e incastri che invitano a leggere ancora un capitolo. Compatibilità alta, ma è molto più cupo, crudele e disturbante dei tuoi romanzi emotivi preferiti. Leggere i tre libri nell'ordine indicato e senza cercare spoiler.",
+    "tags": [
+      "thriller",
+      "psicologico",
+      "mistero",
+      "enigmi",
+      "cupo",
+      "segreti",
+      "violenza"
+    ],
+    "source": "Segnalato da te",
+    "fit": 9,
+    "links": [
+      "nyt-in-the-woods",
+      "nyt-gone-girl",
+      "nyt-mystic-river",
+      "nyt-razorblade-tears"
+    ]
   }
 ];
