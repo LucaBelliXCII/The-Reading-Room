@@ -1,0 +1,8 @@
+# The Reading Room: sito statico, senza build.
+[build]
+  publish = "."
+
+[[headers]]
+  for = "/catalogo.js"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
