@@ -21,3 +21,18 @@ Dì a ChatGPT quali libri aggiungere, rimuovere o modificare. Una volta collegat
 - Preferiti, note, stati di lettura e libri inseriti dal pulsante “+ Libro” restano nel `localStorage` del singolo browser, con possibilità di esportare e importare un backup JSON.
 - Questa migrazione **non modifica** il localStorage e non crea una sincronizzazione tra dispositivi.
 - Evita di cambiare l'URL/dominio del sito o la chiave di storage se vuoi mantenere il progresso già registrato nello stesso browser.
+
+
+## Sincronizzazione privata fra dispositivi (predisposta, non attiva finché non configurata)
+
+Il sito continua a funzionare in locale senza configurazione. Per attivare l'account cloud:
+
+1. Apri [Supabase](https://supabase.com/dashboard) e crea un progetto gratuito personale.
+2. In **SQL Editor** esegui interamente `supabase_setup.sql` per creare tabelle e regole RLS (solo proprietario).
+3. In **Authentication → URL Configuration**, imposta il Site URL su `https://mellifluous-cobbler-6f8666.netlify.app` e aggiungilo fra i Redirect URLs. Email authentication deve essere abilitata.
+4. In **Project Settings → API Keys** copia **Project URL** e la sola **publishable key** (`sb_publishable_...`) in `sync-config.js`. Non inserire mai una `sb_secret_...`, `service_role` o password.
+5. Pubblica il commit. Comparirà il pulsante **☁ Accedi** sul sito; fai login su ciascun dispositivo con la medesima email.
+
+Ogni account ha il proprio storage locale e righe cloud protette da Row Level Security. Le modifiche sono salvate prima in locale e inviate quando c'è connessione. Il vecchio storage guest viene mantenuto intatto; se il cloud è vuoto al primo login viene importato automaticamente. Se sul cloud ci sono già dati, il pulsante **Importa dati locali precedenti** unisce i soli elementi mancanti. Il backup JSON rimane sempre disponibile. Per evitare conflitti, non modificare simultaneamente la **stessa** scheda libro da più dispositivi: in tal caso prevale l'ultima modifica ricevuta dal server.
+
+Il catalogo editoriale `catalogo.js` resta pubblico e aggiornabile direttamente da GitHub/ChatGPT, indipendentemente dai dati personali.
