@@ -1836,5 +1836,566 @@ window.READING_ROOM_BOOKS = [
       "rr-lonesome-dove"
     ],
     "aka": "Uomini e topi"
+  },
+  {
+    "id": "rr-dark-age",
+    "title": "Dark Age",
+    "author": "Pierce Brown",
+    "genre": "Fantascienza",
+    "year": 2019,
+    "description": "La nuova fase della saga di Darrow entra in un periodo di guerra e tensione estrema, raccontato da più prospettive.",
+    "why": "Quinto volume: dopo Iron Gold. Tra le priorità più alte se ami Red Rising.",
+    "source": "TBR · immagini 2026",
+    "fit": 10,
+    "tags": [],
+    "links": [
+      "rr-iron-gold",
+      "rr-light-bringer"
+    ],
+    "series": "Red Rising",
+    "volume": 5
+  },
+  {
+    "id": "rr-light-bringer",
+    "title": "Light Bringer",
+    "author": "Pierce Brown",
+    "genre": "Fantascienza",
+    "year": 2023,
+    "description": "La lotta per il futuro della Repubblica continua con alleanze fragili e scelte difficili.",
+    "why": "Sesto volume: da leggere solo dopo Dark Age, senza anticipazioni.",
+    "source": "TBR · immagini 2026",
+    "fit": 10,
+    "tags": [],
+    "links": [
+      "rr-dark-age",
+      "rr-iron-gold"
+    ],
+    "series": "Red Rising",
+    "volume": 6
+  },
+  {
+    "id": "rr-will-many",
+    "title": "The Will of the Many",
+    "author": "James Islington",
+    "genre": "Fantasy",
+    "year": 2023,
+    "description": "Un giovane nasconde la propria identità in una scuola d'élite di un impero in cui il potere si alimenta della forza altrui.",
+    "why": "Se Red Rising ti è sembrato pazzesco, questo è il nuovo fantasy che metterei in cima: sistema sociale, accademia e segreti.",
+    "source": "TBR · immagini 2026",
+    "fit": 10,
+    "tags": [
+      "fantasy",
+      "accademia",
+      "intrighi"
+    ],
+    "links": [
+      "rr-red-rising",
+      "rr-empire-of-silence"
+    ],
+    "series": "Hierarchy",
+    "volume": 1
+  },
+  {
+    "id": "rr-empire-vampire",
+    "title": "Empire of the Vampire",
+    "author": "Jay Kristoff",
+    "genre": "Fantasy",
+    "year": 2021,
+    "description": "In un mondo senza alba, un cacciatore di vampiri racconta una vita di guerra e sopravvivenza.",
+    "why": "Fantasy gotico monumentale, violento e adulto; molto più oscuro dei classici epici.",
+    "source": "TBR · immagini 2026",
+    "fit": 9,
+    "tags": [],
+    "links": [
+      "rr-between-two-fires",
+      "rr-shadow-gods"
+    ],
+    "series": "Empire of the Vampire",
+    "volume": 1
+  },
+  {
+    "id": "rr-gate-feral-gods",
+    "title": "The Gate of the Feral Gods",
+    "author": "Matt Dinniman",
+    "genre": "Fantasy",
+    "year": 2021,
+    "description": "Carl e Donut continuano a lottare per sopravvivere in una competizione che cambia continuamente.",
+    "why": "Quarto volume di Dungeon Crawler Carl: leggere dopo The Dungeon Anarchist's Cookbook.",
+    "source": "TBR · immagini 2026",
+    "fit": 9,
+    "tags": [],
+    "links": [
+      "rr-dungeon-anarchists-cookbook",
+      "rr-butchers-masquerade"
+    ],
+    "series": "Dungeon Crawler Carl",
+    "volume": 4
+  },
+  {
+    "id": "rr-butchers-masquerade",
+    "title": "The Butcher's Masquerade",
+    "author": "Matt Dinniman",
+    "genre": "Fantasy",
+    "year": 2022,
+    "description": "La discesa di Carl e Donut prosegue in un nuovo scenario ricco di alleanze e pericoli.",
+    "why": "Quinto volume: non leggere trame online prima di aver concluso il quarto.",
+    "source": "TBR · immagini 2026",
+    "fit": 9,
+    "tags": [],
+    "links": [
+      "rr-gate-feral-gods",
+      "rr-eye-bedlam-bride"
+    ],
+    "series": "Dungeon Crawler Carl",
+    "volume": 5
+  },
+  {
+    "id": "rr-eye-bedlam-bride",
+    "title": "The Eye of the Bedlam Bride",
+    "author": "Matt Dinniman",
+    "genre": "Fantasy",
+    "year": 2023,
+    "description": "La gara nel dungeon raggiunge livelli ancora più assurdi e pericolosi.",
+    "why": "Sesto volume, da leggere dopo The Butcher's Masquerade.",
+    "source": "TBR · immagini 2026",
+    "fit": 9,
+    "tags": [],
+    "links": [
+      "rr-butchers-masquerade",
+      "rr-this-inevitable-ruin"
+    ],
+    "series": "Dungeon Crawler Carl",
+    "volume": 6
+  },
+  {
+    "id": "rr-this-inevitable-ruin",
+    "title": "This Inevitable Ruin",
+    "author": "Matt Dinniman",
+    "genre": "Fantasy",
+    "year": 2024,
+    "description": "Carl, Donut e gli altri partecipanti affrontano nuove conseguenze del gioco mortale.",
+    "why": "Settimo volume, da affrontare dopo The Eye of the Bedlam Bride.",
+    "source": "TBR · immagini 2026",
+    "fit": 9,
+    "tags": [],
+    "links": [
+      "rr-eye-bedlam-bride",
+      "rr-parade-horribles"
+    ],
+    "series": "Dungeon Crawler Carl",
+    "volume": 7
+  },
+  {
+    "id": "rr-parade-horribles",
+    "title": "A Parade of Horribles",
+    "author": "Matt Dinniman",
+    "genre": "Fantasy",
+    "year": 2026,
+    "description": "L'ottavo episodio di Dungeon Crawler Carl porta il gioco a una fase diversa e imprevedibile.",
+    "why": "Ottavo volume uscito nel maggio 2026: da leggere rigorosamente in ordine.",
+    "source": "TBR · immagini 2026",
+    "fit": 9,
+    "tags": [],
+    "links": [
+      "rr-this-inevitable-ruin",
+      "rr-dungeon-crawler-carl"
+    ],
+    "series": "Dungeon Crawler Carl",
+    "volume": 8
+  },
+  {
+    "id": "rr-ironbound",
+    "title": "Ironbound",
+    "author": "Andrew Givler",
+    "genre": "Fantasy",
+    "year": 2025,
+    "description": "Castor cerca di ottenere un potere legato a misteriosi metalli, ma un attacco lo spinge nella legione di un impero in crisi.",
+    "why": "Progression fantasy con addestramento, vendetta e struttura militare: potrebbe soddisfare la tua voglia di Red Rising.",
+    "source": "TBR · immagini 2026",
+    "fit": 9,
+    "tags": [],
+    "links": [
+      "rr-will-many",
+      "rr-red-rising"
+    ],
+    "series": "Ironbound",
+    "volume": 1
+  },
+  {
+    "id": "rr-shadow-what-lost",
+    "title": "The Shadow of What Was Lost",
+    "author": "James Islington",
+    "genre": "Fantasy",
+    "year": 2014,
+    "description": "Un giovane dotato di capacità proibite viene trascinato in un mistero che minaccia il suo mondo.",
+    "why": "Inizio della trilogia Licanius, separata da Hierarchy: fantasy classico con misteri intricati.",
+    "source": "TBR · immagini 2026",
+    "fit": 8.5,
+    "tags": [],
+    "links": [
+      "rr-will-many",
+      "malice"
+    ],
+    "series": "Licanius",
+    "volume": 1
+  },
+  {
+    "id": "rr-blood-bright-haven",
+    "title": "Blood Over Bright Haven",
+    "author": "M. L. Wang",
+    "genre": "Fantasy",
+    "year": 2023,
+    "description": "La prima donna ammessa in una prestigiosa istituzione di maghi scopre segreti dietro il sistema che governa la magia.",
+    "why": "Fantasy autoconclusivo, adulto, con ingiustizia sociale e scelte moralmente complesse.",
+    "source": "TBR · immagini 2026",
+    "fit": 9,
+    "tags": [],
+    "links": [
+      "rr-will-many",
+      "rr-jade-city"
+    ]
+  },
+  {
+    "id": "rr-shadow-gods",
+    "title": "The Shadow of the Gods",
+    "author": "John Gwynne",
+    "genre": "Fantasy",
+    "year": 2021,
+    "description": "In un mondo nordico segnato dalla scomparsa degli dèi, guerrieri e famiglie inseguono destini intrecciati.",
+    "why": "Gwynne per te è già in lista: questa è un'altra saga, la Bloodsworn, diversa da Malice.",
+    "source": "TBR · immagini 2026",
+    "fit": 9.5,
+    "tags": [],
+    "links": [
+      "malice",
+      "rr-wolves-war"
+    ],
+    "series": "The Bloodsworn Saga",
+    "volume": 1
+  },
+  {
+    "id": "rr-empire-of-silence",
+    "title": "Empire of Silence",
+    "author": "Christopher Ruocchio",
+    "genre": "Fantascienza",
+    "year": 2018,
+    "description": "Un giovane aristocratico fugge dal suo destino e si ritrova al centro di una storia galattica molto più grande di lui.",
+    "why": "Una delle migliori candidate dopo Red Rising: fantascienza epica, politica e personaggi tormentati; ritmo iniziale più lento.",
+    "source": "TBR · immagini 2026",
+    "fit": 9.5,
+    "tags": [],
+    "links": [
+      "rr-red-rising",
+      "rr-will-many"
+    ],
+    "series": "Sun Eater",
+    "volume": 1
+  },
+  {
+    "id": "rr-jade-city",
+    "title": "Jade City",
+    "author": "Fonda Lee",
+    "genre": "Fantasy",
+    "year": 2017,
+    "description": "Due famiglie criminali competono per il controllo di un'isola dove una pietra preziosa conferisce poteri straordinari.",
+    "why": "Intrighi, rivalità familiari e azione: fantasy urbano molto orientato ai personaggi.",
+    "source": "TBR · immagini 2026",
+    "fit": 9.5,
+    "tags": [],
+    "links": [
+      "rr-will-many",
+      "rr-empire-of-silence"
+    ],
+    "series": "Green Bone Saga",
+    "volume": 1
+  },
+  {
+    "id": "rr-wolves-war",
+    "title": "The Wolves of War",
+    "author": "John Gwynne",
+    "genre": "Fantasy",
+    "year": 2026,
+    "description": "In un mondo ispirato al folklore slavo, una famiglia lotta per sopravvivere all'invasione e a una minaccia magica.",
+    "why": "Nuova saga Wolfheart Chronicles, non un seguito di Malice o Bloodsworn.",
+    "source": "TBR · immagini 2026",
+    "fit": 9.5,
+    "tags": [],
+    "links": [
+      "rr-shadow-gods",
+      "malice"
+    ],
+    "series": "Wolfheart Chronicles",
+    "volume": 1
+  },
+  {
+    "id": "rr-crime-punishment",
+    "title": "Crime and Punishment",
+    "author": "Fëdor Dostoevskij",
+    "genre": "Classici",
+    "year": 1866,
+    "description": "Uno studente di San Pietroburgo commette un crimine e affronta le conseguenze psicologiche e morali delle sue idee.",
+    "why": "Un classico potentissimo sull'animo umano, ma non sceglierlo se in questo momento vuoi solo azione.",
+    "source": "TBR · immagini 2026",
+    "fit": 9,
+    "tags": [],
+    "links": [
+      "rr-stoner",
+      "rr-dorian-gray"
+    ],
+    "aka": "Delitto e castigo"
+  },
+  {
+    "id": "rr-bluest-eye",
+    "title": "The Bluest Eye",
+    "author": "Toni Morrison",
+    "genre": "Classici",
+    "year": 1970,
+    "description": "La storia di una bambina afroamericana e dei modelli di bellezza imposti da una società segnata dal razzismo.",
+    "why": "Prosa intensa e temi durissimi: grande profondità emotiva, ma lettura dolorosa.",
+    "source": "TBR · immagini 2026",
+    "fit": 8.5,
+    "tags": [],
+    "links": [
+      "demon",
+      "rr-east-eden"
+    ],
+    "aka": "L'occhio più azzurro"
+  },
+  {
+    "id": "rr-count-monte-cristo",
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "genre": "Classici",
+    "year": 1844,
+    "description": "Un uomo tradito e imprigionato costruisce una complessa vendetta dopo aver riacquistato la libertà.",
+    "why": "Intrighi, colpi di scena e un grande arco di trasformazione: romanzo lungo ma molto avventuroso.",
+    "source": "TBR · immagini 2026",
+    "fit": 9.5,
+    "tags": [],
+    "links": [
+      "rr-red-rising",
+      "rr-lonesome-dove"
+    ],
+    "aka": "Il conte di Montecristo"
+  },
+  {
+    "id": "rr-112263",
+    "title": "11/22/63",
+    "author": "Stephen King",
+    "genre": "Fantascienza",
+    "year": 2011,
+    "description": "Un insegnante scopre un passaggio nel passato e tenta di intervenire su un evento cruciale della storia americana.",
+    "why": "Fantastico per te: storia americana, conseguenze delle scelte, suspense e rapporti umani.",
+    "source": "TBR · immagini 2026",
+    "fit": 9.5,
+    "tags": [],
+    "links": [
+      "rr-dark-matter",
+      "rr-shining"
+    ],
+    "aka": "22/11/'63"
+  },
+  {
+    "id": "rr-great-alone",
+    "title": "The Great Alone",
+    "author": "Kristin Hannah",
+    "genre": "Letterario",
+    "year": 2018,
+    "description": "Una famiglia si trasferisce nell'Alaska selvaggia degli anni Settanta, dove l'isolamento mette alla prova i legami.",
+    "why": "Ambientazione potente, personaggi e sopravvivenza emotiva: potrebbe ricordarti l'impatto umano di Demon Copperhead.",
+    "source": "TBR · immagini 2026",
+    "fit": 9.5,
+    "tags": [],
+    "links": [
+      "rr-nightingale",
+      "rr-wild-dark-shore"
+    ],
+    "aka": "Il grande inverno"
+  },
+  {
+    "id": "rr-emma-lion",
+    "title": "The Unselected Journals of Emma M. Lion: Vol. 1",
+    "author": "Beth Brower",
+    "genre": "Letterario",
+    "year": 2019,
+    "description": "Nella Londra del 1883, Emma racconta attraverso i propri diari parenti eccentrici e avventure sociali inattese.",
+    "why": "Diari ironici e spiritosi, più atmosfera e personaggi che grandi colpi di scena: ingresso a una saga di più volumi.",
+    "source": "TBR · immagini 2026",
+    "fit": 7.5,
+    "tags": [],
+    "links": [
+      "rr-correspondent",
+      "rr-giovannis-room"
+    ],
+    "series": "The Unselected Journals of Emma M. Lion",
+    "volume": 1
+  },
+  {
+    "id": "rr-giovannis-room",
+    "title": "Giovanni's Room",
+    "author": "James Baldwin",
+    "genre": "Classici",
+    "year": 1956,
+    "description": "Un giovane americano a Parigi è diviso fra il desiderio, il senso di appartenenza e le aspettative sociali.",
+    "why": "Romanzo breve, emotivamente intenso e psicologicamente accurato.",
+    "source": "TBR · immagini 2026",
+    "fit": 8.5,
+    "tags": [],
+    "links": [
+      "rr-bluest-eye",
+      "rr-stoner"
+    ],
+    "aka": "La stanza di Giovanni"
+  },
+  {
+    "id": "rr-calamity-club",
+    "title": "The Calamity Club",
+    "author": "Kathryn Stockett",
+    "genre": "Storico",
+    "year": 2026,
+    "description": "Nel Mississippi della Grande Depressione, tre figure femminili molto diverse cercano alleanza e autonomia.",
+    "why": "America, marginalità e protagoniste forti: credo che il lato umano potrebbe conquistarti.",
+    "source": "TBR · immagini 2026",
+    "fit": 9,
+    "tags": [],
+    "links": [
+      "demon",
+      "rr-east-eden"
+    ]
+  },
+  {
+    "id": "rr-hobbit",
+    "title": "The Hobbit",
+    "author": "J. R. R. Tolkien",
+    "genre": "Fantasy",
+    "year": 1937,
+    "description": "Bilbo Baggins lascia la Contea per un'avventura con nani e un mago, attraversando terre sempre più pericolose.",
+    "why": "Più breve e fiabesco del Signore degli Anelli: interessante quando vorrai ampliare la Terra di Mezzo, senza spoiler.",
+    "source": "TBR · immagini 2026",
+    "fit": 9,
+    "tags": [],
+    "links": [
+      "rr-shadow-gods",
+      "rr-count-monte-cristo"
+    ],
+    "aka": "Lo Hobbit",
+    "series": "Terra di Mezzo",
+    "volume": 0
+  },
+  {
+    "id": "rr-james-everett",
+    "title": "James",
+    "author": "Percival Everett",
+    "genre": "Letterario",
+    "year": 2024,
+    "description": "La vicenda di Huckleberry Finn viene raccontata da un'altra prospettiva, con al centro James, lo schiavo conosciuto come Jim.",
+    "why": "Narrativa americana, voce memorabile e critica sociale: un titolo che potresti amare.",
+    "source": "TBR · immagini 2026",
+    "fit": 9.5,
+    "tags": [],
+    "links": [
+      "demon",
+      "rr-bluest-eye"
+    ]
+  },
+  {
+    "id": "rr-stoner",
+    "title": "Stoner",
+    "author": "John Williams",
+    "genre": "Classici",
+    "year": 1965,
+    "description": "La vita apparentemente ordinaria di un insegnante universitario diventa il racconto di scelte, delusioni e affetti.",
+    "why": "Un libro costruito sull'interiorità dei personaggi: potenzialmente grandioso per te, pur senza avventure frenetiche.",
+    "source": "TBR · immagini 2026",
+    "fit": 9.5,
+    "tags": [],
+    "links": [
+      "rr-east-eden",
+      "rr-train-dreams"
+    ]
+  },
+  {
+    "id": "rr-kite-runner",
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "genre": "Letterario",
+    "year": 2003,
+    "description": "Due ragazzi crescono a Kabul, ma un evento drammatico cambia il loro rapporto e li accompagna nella vita.",
+    "why": "Amicizia, colpa e redenzione: per la tua sensibilità ai personaggi lo metterei molto in alto.",
+    "source": "TBR · immagini 2026",
+    "fit": 10,
+    "tags": [],
+    "links": [
+      "demon",
+      "rr-east-eden"
+    ],
+    "aka": "Il cacciatore di aquiloni"
+  },
+  {
+    "id": "rr-dorian-gray",
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "Classici",
+    "year": 1890,
+    "description": "Un giovane vede il proprio ritratto cambiare mentre la sua bellezza resta immutata.",
+    "why": "Breve classico gotico sull'apparenza, la colpa e la corruzione morale.",
+    "source": "TBR · immagini 2026",
+    "fit": 8.5,
+    "tags": [],
+    "links": [
+      "rr-crime-punishment",
+      "rr-giovannis-room"
+    ],
+    "aka": "Il ritratto di Dorian Gray"
+  },
+  {
+    "id": "rr-fruit-fly",
+    "title": "Fruit Fly",
+    "author": "Josh Silver",
+    "genre": "Letterario",
+    "year": 2026,
+    "description": "Una storia contemporanea di identità, desiderio e disagio, narrata con uno sguardo satirico e umorismo nero.",
+    "why": "Per quando vuoi una voce irriverente e disturbante, lontana dall'epica fantasy.",
+    "source": "TBR · immagini 2026",
+    "fit": 7.5,
+    "tags": [],
+    "links": [
+      "rr-yesteryear",
+      "rr-giovannis-room"
+    ]
+  },
+  {
+    "id": "rr-pachinko",
+    "title": "Pachinko",
+    "author": "Min Jin Lee",
+    "genre": "Storico",
+    "year": 2017,
+    "description": "La vita di una famiglia coreana si sviluppa per generazioni tra Corea e Giappone, intrecciando amore e sacrifici.",
+    "why": "Grandissima saga familiare: personaggi e storia, un'opzione forte dopo Demon Copperhead.",
+    "source": "TBR · immagini 2026",
+    "fit": 9.5,
+    "tags": [],
+    "links": [
+      "rr-east-eden",
+      "demon",
+      "shogun"
+    ],
+    "aka": "Pachinko. La moglie coreana"
+  },
+  {
+    "id": "rr-sunburn",
+    "title": "Sunburn",
+    "author": "Chloe Michelle Howarth",
+    "genre": "Letterario",
+    "year": 2023,
+    "description": "Nell'Irlanda degli anni Novanta, una ragazza affronta le aspettative del proprio ambiente mentre scopre un sentimento difficile da esprimere.",
+    "why": "Coming-of-age intimo e doloroso: la dimensione emotiva è il suo punto di forza.",
+    "source": "TBR · immagini 2026",
+    "fit": 8.5,
+    "tags": [],
+    "links": [
+      "rr-giovannis-room",
+      "rr-kite-runner"
+    ]
   }
 ];
