@@ -132,7 +132,9 @@ window.READING_ROOM_TRANSLATIONS = {
     "title": "L'arte di vivere in difesa"
   },
   "greenlights": {
-    "status": "it"
+    "status": "it",
+    "title": "Greenlights. L'arte di correre in discesa",
+    "source": "https://www.ibs.it/greenlights-arte-di-correre-in-libro-matthew-mcconaughey/e/9788893883962"
   },
   "tender-bar": {
     "status": "it",
@@ -247,8 +249,9 @@ window.READING_ROOM_TRANSLATIONS = {
   },
   "rr-project-hail-mary": {
     "status": "it",
-    "title": "L'ultima orbita",
-    "source": "https://www.ibs.it/libri/andy-weir"
+    "title": "Project Hail Mary",
+    "source": "https://catalogo.fondazionelia.org/content/project-hail-mary-9788835723493",
+    "note": "Pubblicato in italiano da Mondadori con lo stesso titolo inglese. Edizione ebook italiana disponibile (non necessariamente Kindle)."
   },
   "rr-dungeon-crawler-carl": {
     "status": "it"
@@ -401,7 +404,7 @@ window.READING_ROOM_TRANSLATIONS = {
   "rr-blood-bright-haven": {
     "status": "it",
     "title": "Sangue sull'oasi di luce",
-    "source": "https://opac.bibliotecabraidense.org/opac_braidense/opaclib?brief=brief&db=solr_braidense&do_cmd=search_show_cmd&fname=none&nentries=50&refine=1001%21%3A%21a%21%3A%21testo+a+stampa%21%3A%21Tipo+di+materiale"
+    "source": "https://opac.bibliotecabraidense.org/opac_braidense/opaclib?brief=brief&db=solr_braidense&do_cmd=search_show_cmd&fname=none&from=1&nentries=50&refine=4005%21%3A%21oscar+fantastica%21%3A%21oscar+fantastica%21%3A%21Collezione&resultForward=opac%2Fbraidense%2Ffull.jsp&rpnlabel=Ultimi+arrivi&rpnquery=%40attrset+bib-1++%40and+%40attr+2%3D4++%40attr+4%3D4+%40attr+1%3D90038+%2220240617+%22+%40attr+1%3D31+%40attr+2%3D4+%222020%22&searchForm=opac%2Fbraidense%2Ferror.jsp&select_db=solr_braidense&totalResult=117"
   },
   "rr-shadow-gods": {
     "status": "it",
@@ -422,7 +425,7 @@ window.READING_ROOM_TRANSLATIONS = {
     "status": "soon",
     "title": "The Wolves of War. Wolfheart Chronicles",
     "note": "Edizione italiana Fanucci annunciata per il 19 febbraio 2027; non ancora pubblicata al 14/11/2026.",
-    "url": "https://www.ibs.it/the-wolves-of-war-wolfheart-libro-john-gwynne/e/9788834748206"
+    "source": "https://www.ibs.it/the-wolves-of-war-wolfheart-libro-john-gwynne/e/9788834748206"
   },
   "rr-crime-punishment": {
     "status": "it",
