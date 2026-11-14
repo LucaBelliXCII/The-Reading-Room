@@ -36,3 +36,12 @@ Il sito continua a funzionare in locale senza configurazione. Per attivare l'acc
 Ogni account ha il proprio storage locale e righe cloud protette da Row Level Security. Le modifiche sono salvate prima in locale e inviate quando c'è connessione. Il vecchio storage guest viene mantenuto intatto; se il cloud è vuoto al primo login viene importato automaticamente. Se sul cloud ci sono già dati, il pulsante **Importa dati locali precedenti** unisce i soli elementi mancanti. Il backup JSON rimane sempre disponibile. Per evitare conflitti, non modificare simultaneamente la **stessa** scheda libro da più dispositivi: in tal caso prevale l'ultima modifica ricevuta dal server.
 
 Il catalogo editoriale `catalogo.js` resta pubblico e aggiornabile direttamente da GitHub/ChatGPT, indipendentemente dai dati personali.
+## Traduzioni italiane (14 novembre 2026)
+
+- `traduzioni.js` contiene una scheda per ciascuno dei 116 libri del catalogo, con lo stato: `it` (edizione pubblicata in italiano), `en` (nessuna edizione italiana trovata), `soon` (edizione annunciata, non ancora pubblicata), `verify` (informazione incerta).
+- Il filtro **Lingua** nella pagina Esplora permette di vedere solo le edizioni italiane, solo i libri senza traduzione trovata, quelli annunciati e quelli ancora da verificare.
+- Il badge compare sulle schede, nei dettagli e nella sezione Saghe. Nei dettagli è riportato anche il titolo italiano, quando noto, e alcune schede editoriali di riferimento.
+- **Il badge ITA non garantisce la disponibilità in Kindle o ebook**: significa soltanto che è stata individuata un'edizione tradotta in italiano. Il badge ENG non è una certificazione definitiva di inesistenza della traduzione.
+- I libri aggiunti manualmente possono avere uno stato linguistico assegnato durante l'inserimento; quelli senza dato vengono visualizzati come **DA VERIFICARE**.
+- Per aggiungere nuovi libri al catalogo pubblico, aggiornare sia `catalogo.js` sia `traduzioni.js` (altrimenti appariranno come DA VERIFICARE).
+- Per le saghe incomplete nella traduzione: Iron Gold è in italiano; Dark Age e Light Bringer non risultano pubblicati in traduzione italiana. Dungeon Crawler Carl è tradotto per i volumi 1–3; i successivi non risultano ancora pubblicati in italiano. The Wolves of War ha un'edizione italiana annunciata per il 19/02/2027.
