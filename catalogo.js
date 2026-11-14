@@ -1342,5 +1342,499 @@ window.READING_ROOM_BOOKS = [
       "nyt-mystic-river",
       "nyt-razorblade-tears"
     ]
+  },
+  {
+    "id": "rr-red-rising",
+    "title": "Red Rising",
+    "author": "Pierce Brown",
+    "genre": "Fantascienza",
+    "year": 2014,
+    "description": "Darrow vive nelle miniere di Marte e scopre una verità che cambia il suo mondo e lo spinge alla ribellione.",
+    "why": "Prima trilogia letta e amatissima: il riferimento principale per scegliere nuove saghe.",
+    "source": "TBR · immagini 2026",
+    "fit": 10,
+    "tags": [
+      "fantascienza",
+      "distopia",
+      "ribellione",
+      "guerra"
+    ],
+    "links": [
+      "rr-golden-son",
+      "rr-project-hail-mary"
+    ],
+    "series": "Red Rising",
+    "volume": 1,
+    "status": "Letto"
+  },
+  {
+    "id": "rr-golden-son",
+    "title": "Golden Son",
+    "author": "Pierce Brown",
+    "genre": "Fantascienza",
+    "year": 2015,
+    "description": "Darrow affronta intrighi, alleanze e conflitti su scala sempre più ampia nel sistema solare.",
+    "why": "Secondo volume della prima trilogia, già letto e apprezzato.",
+    "source": "TBR · immagini 2026",
+    "fit": 10,
+    "tags": [],
+    "links": [
+      "rr-red-rising",
+      "rr-morning-star"
+    ],
+    "series": "Red Rising",
+    "volume": 2,
+    "status": "Letto"
+  },
+  {
+    "id": "rr-morning-star",
+    "title": "Morning Star",
+    "author": "Pierce Brown",
+    "genre": "Fantascienza",
+    "year": 2016,
+    "description": "Il conflitto per rovesciare l'ordine sociale raggiunge un momento decisivo, tra scelte e sacrifici.",
+    "why": "Chiusura della prima trilogia che hai definito pazzesca: già letto.",
+    "source": "TBR · immagini 2026",
+    "fit": 10,
+    "tags": [],
+    "links": [
+      "rr-golden-son",
+      "rr-iron-gold"
+    ],
+    "series": "Red Rising",
+    "volume": 3,
+    "status": "Letto"
+  },
+  {
+    "id": "rr-iron-gold",
+    "title": "Iron Gold",
+    "author": "Pierce Brown",
+    "genre": "Fantascienza",
+    "year": 2018,
+    "description": "Anni dopo la prima trilogia, il mondo di Darrow affronta le conseguenze politiche e personali della rivoluzione.",
+    "why": "Priorità assoluta: è il quarto romanzo della saga che hai adorato; cambia prospettiva e amplia la storia.",
+    "source": "TBR · immagini 2026",
+    "fit": 10,
+    "tags": [],
+    "links": [
+      "rr-morning-star",
+      "rr-dark-age"
+    ],
+    "series": "Red Rising",
+    "volume": 4
+  },
+  {
+    "id": "rr-project-hail-mary",
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "genre": "Fantascienza",
+    "year": 2021,
+    "description": "Un astronauta si risveglia lontano dalla Terra senza ricordare la missione; ricostruisce un problema scientifico enorme.",
+    "why": "Una delle opzioni più facili per ritrovare il piacere di non staccarsi dal Kindle: scienza, suspense e umanità.",
+    "source": "TBR · immagini 2026",
+    "fit": 9.5,
+    "tags": [
+      "fantascienza",
+      "spazio",
+      "mistero"
+    ],
+    "links": [
+      "rr-dark-matter",
+      "rr-red-rising"
+    ],
+    "aka": "L'ultima orbita"
+  },
+  {
+    "id": "rr-dungeon-crawler-carl",
+    "title": "Dungeon Crawler Carl",
+    "author": "Matt Dinniman",
+    "genre": "Fantasy",
+    "year": 2020,
+    "description": "Carl e la gatta Princess Donut sopravvivono a un dungeon assurdo e mortale, trasformato in spettacolo.",
+    "why": "Fantasy/LitRPG irriverente, ritmo forsennato e progressione da videogioco: potrebbe prenderti moltissimo.",
+    "source": "TBR · immagini 2026",
+    "fit": 9.5,
+    "tags": [],
+    "links": [
+      "rr-carls-doomsday-scenario",
+      "rr-ironbound"
+    ],
+    "series": "Dungeon Crawler Carl",
+    "volume": 1
+  },
+  {
+    "id": "rr-carls-doomsday-scenario",
+    "title": "Carl's Doomsday Scenario",
+    "author": "Matt Dinniman",
+    "genre": "Fantasy",
+    "year": 2021,
+    "description": "Carl e Donut affrontano nuovi piani del dungeon e regole sempre più folli.",
+    "why": "Secondo volume: non iniziare da qui.",
+    "source": "TBR · immagini 2026",
+    "fit": 9,
+    "tags": [],
+    "links": [
+      "rr-dungeon-crawler-carl",
+      "rr-dungeon-anarchists-cookbook"
+    ],
+    "series": "Dungeon Crawler Carl",
+    "volume": 2
+  },
+  {
+    "id": "rr-dungeon-anarchists-cookbook",
+    "title": "The Dungeon Anarchist's Cookbook",
+    "author": "Matt Dinniman",
+    "genre": "Fantasy",
+    "year": 2021,
+    "description": "La discesa nel dungeon continua tra nuovi pericoli e un sistema di gioco sempre più perverso.",
+    "why": "Terzo volume, da leggere dopo Carl's Doomsday Scenario.",
+    "source": "TBR · immagini 2026",
+    "fit": 9,
+    "tags": [],
+    "links": [
+      "rr-carls-doomsday-scenario",
+      "rr-gate-feral-gods"
+    ],
+    "series": "Dungeon Crawler Carl",
+    "volume": 3
+  },
+  {
+    "id": "rr-shining",
+    "title": "The Shining",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "year": 1977,
+    "description": "Una famiglia trascorre l'inverno isolata in un hotel di montagna, dove l'atmosfera si fa sempre più minacciosa.",
+    "why": "Un classico dell'horror psicologico: tensione e personaggi, ma anche una lenta costruzione dell'angoscia.",
+    "source": "TBR · immagini 2026",
+    "fit": 8.5,
+    "tags": [],
+    "links": [
+      "rr-112263",
+      "rr-between-two-fires"
+    ],
+    "aka": "Shining"
+  },
+  {
+    "id": "rr-1984",
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Classici",
+    "year": 1949,
+    "description": "In un regime totalitario che controlla linguaggio e memoria, Winston Smith tenta di conservare una vita interiore.",
+    "why": "Distopia fondamentale, più politica e inquietante che movimentata.",
+    "source": "TBR · immagini 2026",
+    "fit": 8.5,
+    "tags": [],
+    "links": [
+      "rr-animal-farm",
+      "rr-fahrenheit-451"
+    ]
+  },
+  {
+    "id": "rr-dark-matter",
+    "title": "Dark Matter",
+    "author": "Blake Crouch",
+    "genre": "Fantascienza",
+    "year": 2016,
+    "description": "Un fisico viene trascinato in una versione della propria vita che non riconosce: ogni scelta sembra aprire un altro destino.",
+    "why": "Thriller sci-fi molto rapido: ideale quando vuoi tensione e colpi di scena.",
+    "source": "TBR · immagini 2026",
+    "fit": 9.5,
+    "tags": [],
+    "links": [
+      "rr-project-hail-mary",
+      "rr-112263"
+    ],
+    "aka": "Dark Matter"
+  },
+  {
+    "id": "rr-animal-farm",
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "genre": "Classici",
+    "year": 1945,
+    "description": "Gli animali di una fattoria si ribellano ai padroni, ma il potere cambia presto le regole della convivenza.",
+    "why": "Brevissimo e tagliente: allegoria politica che si legge senza fatica.",
+    "source": "TBR · immagini 2026",
+    "fit": 8,
+    "tags": [],
+    "links": [
+      "rr-1984",
+      "rr-fahrenheit-451"
+    ],
+    "aka": "La fattoria degli animali"
+  },
+  {
+    "id": "rr-midnight-library",
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "genre": "Letterario",
+    "year": 2020,
+    "description": "Una donna scopre una biblioteca in cui ogni libro rappresenta una possibile vita diversa.",
+    "why": "Romanzo sulle scelte, sui rimpianti e sul desiderio di ricominciare: emotivo ma più consolatorio di Kingsolver.",
+    "source": "TBR · immagini 2026",
+    "fit": 8,
+    "tags": [],
+    "links": [
+      "demon",
+      "rr-dark-matter"
+    ],
+    "aka": "La biblioteca di mezzanotte"
+  },
+  {
+    "id": "rr-fahrenheit-451",
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": "Classici",
+    "year": 1953,
+    "description": "In un futuro dove leggere è proibito, un pompiere incaricato di bruciare libri comincia a mettere in dubbio il proprio mondo.",
+    "why": "Distopia breve sul valore della lettura e della libertà di pensiero.",
+    "source": "TBR · immagini 2026",
+    "fit": 8.5,
+    "tags": [],
+    "links": [
+      "rr-1984",
+      "rr-animal-farm"
+    ]
+  },
+  {
+    "id": "rr-dragonforged",
+    "title": "DragonForged",
+    "author": "Justin C. Orr",
+    "genre": "Fantasy",
+    "year": 2026,
+    "description": "Tre draghi banditi dalla loro terra creano un nuovo mondo, ma tra loro cresce un desiderio di vendetta.",
+    "why": "Novella mitologica introduttiva alla Banished Saga: non è un romanzo lungo, né obbligatoria prima di DragonGods.",
+    "source": "TBR · immagini 2026",
+    "fit": 7.5,
+    "tags": [
+      "draghi",
+      "fantasy",
+      "mitologia"
+    ],
+    "links": [],
+    "series": "The Banished Saga",
+    "volume": 0,
+    "flag": "Prequel/novella di circa 84 pagine."
+  },
+  {
+    "id": "rr-between-two-fires",
+    "title": "Between Two Fires",
+    "author": "Christopher Buehlman",
+    "genre": "Horror",
+    "year": 2012,
+    "description": "Nella Francia devastata dalla peste, un cavaliere decaduto accompagna una giovane attraverso orrori soprannaturali.",
+    "why": "Medioevo sporco, horror e redenzione: molto interessante per chi ama atmosfere cupe e personaggi segnati.",
+    "source": "TBR · immagini 2026",
+    "fit": 9.5,
+    "tags": [],
+    "links": [
+      "rr-shining",
+      "rr-wolves-war"
+    ]
+  },
+  {
+    "id": "rr-correspondent",
+    "title": "The Correspondent",
+    "author": "Virginia Evans",
+    "genre": "Letterario",
+    "year": 2025,
+    "description": "La vita di Sybil Van Antwerp prende forma attraverso lettere, ricordi e conversazioni che attraversano gli anni.",
+    "why": "Per il lato umano e introspettivo che ti ha colpito in Demon Copperhead, non per il ritmo d'azione.",
+    "source": "TBR · immagini 2026",
+    "fit": 9,
+    "tags": [],
+    "links": [
+      "demon",
+      "rr-east-eden"
+    ]
+  },
+  {
+    "id": "rr-where-crawdads-sing",
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "Letterario",
+    "year": 2018,
+    "description": "Una giovane cresce quasi sola nelle paludi del North Carolina, mentre un mistero sconvolge la comunità.",
+    "why": "Natura, solitudine, crescita e mistero: potrebbe coinvolgerti sul piano emotivo.",
+    "source": "TBR · immagini 2026",
+    "fit": 9,
+    "tags": [],
+    "links": [
+      "demon",
+      "rr-wild-dark-shore"
+    ],
+    "aka": "La ragazza della palude"
+  },
+  {
+    "id": "rr-lonesome-dove",
+    "title": "Lonesome Dove",
+    "author": "Larry McMurtry",
+    "genre": "Storico",
+    "year": 1985,
+    "description": "Due ex Texas Rangers guidano una mandria attraverso un West spietato, fra amicizie e vite difficili.",
+    "why": "Tra le mie prime scelte: grande epopea americana e personaggi che restano impressi. Ha un avvio disteso.",
+    "source": "TBR · immagini 2026",
+    "fit": 10,
+    "tags": [],
+    "links": [
+      "rr-east-eden",
+      "rr-train-dreams"
+    ],
+    "series": "Lonesome Dove",
+    "volume": 1,
+    "flag": "Primo pubblicato; terzo nella cronologia interna della serie."
+  },
+  {
+    "id": "rr-east-eden",
+    "title": "East of Eden",
+    "author": "John Steinbeck",
+    "genre": "Classici",
+    "year": 1952,
+    "description": "Le vicende di due famiglie nella valle di Salinas intrecciano amore, rivalità, colpa e possibilità di scelta.",
+    "why": "Se ami i romanzi ricchi di personaggi e sentimenti, per te è una priorità assoluta.",
+    "source": "TBR · immagini 2026",
+    "fit": 10,
+    "tags": [],
+    "links": [
+      "demon",
+      "rr-lonesome-dove",
+      "rr-of-mice-men"
+    ],
+    "aka": "La valle dell'Eden"
+  },
+  {
+    "id": "rr-atmosphere",
+    "title": "Atmosphere",
+    "author": "Taylor Jenkins Reid",
+    "genre": "Letterario",
+    "year": 2025,
+    "description": "Negli anni Ottanta una scienziata entra nel programma degli astronauti NASA e scopre nuovi legami e ambizioni.",
+    "why": "Spazio, emozioni e relazioni: meno hard sci-fi di Andy Weir.",
+    "source": "TBR · immagini 2026",
+    "fit": 8.5,
+    "tags": [],
+    "links": [
+      "rr-project-hail-mary",
+      "rr-great-alone"
+    ]
+  },
+  {
+    "id": "rr-nightingale",
+    "title": "The Nightingale",
+    "author": "Kristin Hannah",
+    "genre": "Storico",
+    "year": 2015,
+    "description": "Due sorelle affrontano l'occupazione nazista della Francia scegliendo strade molto diverse.",
+    "why": "Grande storia emotiva di coraggio, famiglia e sacrificio: dovrebbe piacerti parecchio.",
+    "source": "TBR · immagini 2026",
+    "fit": 9.5,
+    "tags": [],
+    "links": [
+      "rr-great-alone",
+      "rr-east-eden"
+    ],
+    "aka": "L'usignolo"
+  },
+  {
+    "id": "rr-train-dreams",
+    "title": "Train Dreams",
+    "author": "Denis Johnson",
+    "genre": "Letterario",
+    "year": 2011,
+    "description": "Un lavoratore del West americano attraversa decenni di lavoro, perdita e mutamenti del paesaggio.",
+    "why": "Breve, malinconico, poetico: non è un thriller, ma ha una forza emotiva particolare.",
+    "source": "TBR · immagini 2026",
+    "fit": 8.5,
+    "tags": [],
+    "links": [
+      "rr-lonesome-dove",
+      "rr-stoner"
+    ],
+    "aka": "Sogni di treni"
+  },
+  {
+    "id": "rr-wild-dark-shore",
+    "title": "Wild Dark Shore",
+    "author": "Charlotte McConaghy",
+    "genre": "Letterario",
+    "year": 2025,
+    "description": "Su un'isola remota vicino all'Antartide, una famiglia isolata accoglie una donna arrivata dal mare, portatrice di segreti.",
+    "why": "Mistero familiare, paesaggi estremi e tensione emotiva: consigliatissimo.",
+    "source": "TBR · immagini 2026",
+    "fit": 9.5,
+    "tags": [],
+    "links": [
+      "rr-where-crawdads-sing",
+      "rr-correspondent"
+    ]
+  },
+  {
+    "id": "rr-yesteryear",
+    "title": "Yesteryear",
+    "author": "Caro Claire Burke",
+    "genre": "Thriller",
+    "year": 2026,
+    "description": "Una figura pubblica ossessionata dall'immagine di una vita tradizionale si ritrova dentro una realtà che ne mette in crisi le certezze.",
+    "why": "Satira sociale contemporanea dalle tinte nere: un cambio di registro rispetto ai tuoi fantasy.",
+    "source": "TBR · immagini 2026",
+    "fit": 7.5,
+    "tags": [],
+    "links": [
+      "rr-fruit-fly",
+      "nyt-gone-girl"
+    ]
+  },
+  {
+    "id": "rr-into-thin-air",
+    "title": "Into Thin Air",
+    "author": "Jon Krakauer",
+    "genre": "Storie vere",
+    "year": 1997,
+    "description": "Un giornalista ripercorre la tragedia di una spedizione sull'Everest durante la stagione del 1996.",
+    "why": "Sopravvivenza, montagna e testimonianza diretta: per te può essere una lettura magnetica.",
+    "source": "TBR · immagini 2026",
+    "fit": 9.5,
+    "tags": [],
+    "links": [
+      "river-doubt",
+      "rr-lonesome-dove"
+    ],
+    "aka": "Aria sottile"
+  },
+  {
+    "id": "rr-remarkably-bright-creatures",
+    "title": "Remarkably Bright Creatures",
+    "author": "Shelby Van Pelt",
+    "genre": "Letterario",
+    "year": 2022,
+    "description": "Un'amicizia inattesa in un acquario di provincia intreccia solitudine, memoria e desiderio di ricominciare.",
+    "why": "Libro affettuoso e pieno di personaggi, da scegliere quando vuoi qualcosa di meno cupo.",
+    "source": "TBR · immagini 2026",
+    "fit": 8.5,
+    "tags": [],
+    "links": [
+      "rr-correspondent",
+      "demon"
+    ],
+    "aka": "Creature luminose"
+  },
+  {
+    "id": "rr-of-mice-men",
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "genre": "Classici",
+    "year": 1937,
+    "description": "Due braccianti itineranti sognano una vita stabile nella California della Grande Depressione.",
+    "why": "Breve, devastante, memorabile: legami e speranze infrante, probabilmente nelle tue corde.",
+    "source": "TBR · immagini 2026",
+    "fit": 9.5,
+    "tags": [],
+    "links": [
+      "rr-east-eden",
+      "rr-lonesome-dove"
+    ],
+    "aka": "Uomini e topi"
   }
 ];
