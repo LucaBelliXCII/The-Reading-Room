@@ -1442,7 +1442,7 @@ window.READING_ROOM_BOOKS = [
       "rr-dark-matter",
       "rr-red-rising"
     ],
-    "aka": "L'ultima orbita"
+    "aka": "Project Hail Mary"
   },
   {
     "id": "rr-dungeon-crawler-carl",
